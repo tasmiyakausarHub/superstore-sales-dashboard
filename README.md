@@ -49,24 +49,13 @@ This project analyzes sales and profit data using Power BI. It provides insights
 ---
 
 ## 🛠 Tools Used
-- Power BI
 - Excel
 - Data Cleaning & Transformation
-
 ---
-
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
 ---
-
 ## 🚀 Key Insights
 - Technology category generates highest profit
 - Furniture has lower profit margins
 - Sales trend fluctuates across months
 - Central region contributes major share
-
----
-
-## 📌 Author
-Tasmiya Kausar
